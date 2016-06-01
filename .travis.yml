@@ -1,3 +1,4 @@
 language: java
-install: true
+install:
+  - chmod +x run.sh
 script: ./run.sh
