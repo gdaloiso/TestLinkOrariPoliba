@@ -7,7 +7,6 @@ import java.nio.channels.ReadableByteChannel;
 public class TestLink {
 	private static Properties prop;
 	private static final int MEGABYTE = 1024 * 1024;
-
 	public static void main(String[] argv)
 	{
 		TestLink test = new TestLink();
