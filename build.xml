@@ -1,15 +1,15 @@
-<project>
+<project default="run">
 
     <target name="clean">
         <delete dir="build"/>
     </target>
 
-    <target name="compile">
+    <target name="compile" depends="clean">
         <mkdir dir="build"/>
         <javac srcdir="." destdir="build"/>
     </target>
 
-    <target name="jar">
+    <target name="jar" depends="compile">
         <mkdir dir="build/jar"/>
         <jar destfile="build/jar/TestLink.jar" basedir="build">
             <manifest>
@@ -18,7 +18,7 @@
         </jar>
     </target>
 
-    <target name="run">
+    <target name="run" depends="jar">
         <java jar="build/jar/TestLink.jar" fork="true"/>
     </target>
 

@@ -1,5 +1,2 @@
 language: java
-install: ant clean
-install: ant compile
-install: ant jar
-install: ant run
+install: ant 
