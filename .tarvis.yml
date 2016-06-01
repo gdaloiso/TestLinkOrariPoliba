@@ -1,3 +1,0 @@
-language: java
-javac TestLink.java
-java TestLink
