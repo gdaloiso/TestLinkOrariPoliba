@@ -1,4 +1,4 @@
-<project default="run">
+<project default="jar">
 
     <target name="clean">
         <delete dir="build"/>
@@ -18,11 +18,7 @@
         </jar>
     </target>
 
-    <target name="run" depends="jar">
-        <java jar="build/jar/TestLink.jar" fork="true"/>
-    </target>
-
-	<target name="test" depends="run">
+	<target name="test">
         <java jar="build/jar/TestLink.jar" fork="true"/>
     </target>
 

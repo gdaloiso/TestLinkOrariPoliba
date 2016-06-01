@@ -7,7 +7,8 @@ import java.nio.channels.ReadableByteChannel;
 public class TestLink {
 	private static Properties prop;
 	private static final int MEGABYTE = 1024 * 1024;
-	public static void main(String[] argv)
+	int ok = 0;
+	public static int main(String[] argv)
 	{
 		TestLink test = new TestLink();
 		prop = readCredentials();
@@ -18,8 +19,10 @@ public class TestLink {
 			if(!result)
 			{
 				System.out.println("Link al corso "+ str + " errato");
+				ok = 1;
 			}
   		}
+		return ok;
 	}
 	
 	public static Properties readCredentials()
