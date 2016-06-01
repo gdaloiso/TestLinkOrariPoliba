@@ -8,7 +8,7 @@ public class TestLink {
 	private static Properties prop;
 	private static final int MEGABYTE = 1024 * 1024;
 	static int ok = 0;
-	public static int main(String[] argv)
+	public static void  main(String[] argv)
 	{
 		TestLink test = new TestLink();
 		prop = readCredentials();
@@ -22,7 +22,6 @@ public class TestLink {
 				ok = 1;
 			}
   		}
-		return ok;
 	}
 	
 	public static Properties readCredentials()
