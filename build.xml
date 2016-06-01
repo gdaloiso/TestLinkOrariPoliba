@@ -22,4 +22,8 @@
         <java jar="build/jar/TestLink.jar" fork="true"/>
     </target>
 
+	<target name="test" depends="run">
+        <java jar="build/jar/TestLink.jar" fork="true"/>
+    </target>
+
 </project>
