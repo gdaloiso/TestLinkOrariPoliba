@@ -22,6 +22,9 @@ public class TestLink {
 				ok = 1;
 			}
   		}
+		if(ok==1){
+			System.exit(1);
+		}
 	}
 	
 	public static Properties readCredentials()
