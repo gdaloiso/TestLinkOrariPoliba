@@ -1,4 +1,3 @@
 #!/bin/sh
 
-javac TestLink.java
-java TestLink
+javac TestLink.java && java TestLink
