@@ -3,3 +3,9 @@ sudo: required
 install:
   - chmod +x run.sh
 script: ./run.sh
+notifications:
+  email:
+    recipients:
+      - g.daloiso389@gmail.com
+    on_success: change # default: change
+    on_failure: always # default: always
