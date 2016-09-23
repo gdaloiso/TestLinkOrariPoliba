@@ -31,7 +31,7 @@ public class TestLink {
 		Properties prop = new Properties();
 		try
 		{
-			InputStream input = new FileInputStream("config.properties");
+			InputStream input = new FileInputStream("config.propertiesI");
 			prop.load(input);
 		}
 		catch (IOException e)
