@@ -81,7 +81,7 @@ public class TestLink
                 }
 				catch (IOException e)
 				{
-                    e.printStackTrace()
+                    e.printStackTrace();
                 }
 
             }
