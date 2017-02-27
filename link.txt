@@ -10,8 +10,8 @@ Informatica e Automazione DM 270, http://www.ingbari.poliba.it/ingbari/Didattica
 Automazione Magistrale, http://www.ingbari.poliba.it/ingbari/Didattica/orari/automazioneS/ORARI_S_IA.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/automazioneS/ORARI_S_IA2.pdf
 Edile, http://www.ingbari.poliba.it/ingbari/Didattica/orari/edile/ORARI_L_ID.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/edile/ORARI_L_ID2.pdf
 Ingegneria dei Sistemi Edilizi DM 270, http://www.ingbari.poliba.it/ingbari/Didattica/orari/Sist_ed/ORARI_S_ID.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/Sist_ed/ORARI_S_ID2.pdf
-Elettrica, http://www.ingbari.poliba.it/ingbari/Didattica/orari/Sist_ed/ORARI_S_ID.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/Sist_ed/ORARI_S_ID2.pdf 
-Elettrica Magistrale, http://www.ingbari.poliba.it/ingbari/Didattica/orari/Sist_ed/ORARI_S_ID.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/Sist_ed/ORARI_S_ID2.pdf 
+Elettrica, http://www.ingbari.poliba.it/ingbari/Didattica/orari/elettrica/ORARI_L_IL.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/elettrica/ORARI_L_IL2.pdf 
+Elettrica Magistrale, http://www.ingbari.poliba.it/ingbari/Didattica/orari/elettricaS/ORARI_S_IL.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/elettricaS/ORARI_S_IL2.pdf 
 Elettronica e Telecomunicazioni, http://www.ingbari.poliba.it/ingbari/Didattica/orari/Elet_Telec/ORARI_L_IT.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/Elet_Telec/ORARI_L_IT2.pdf
 Elettronica e Telecomunicazioni TA, http://www.ingbari.poliba.it/ingbari/Didattica/orari/Elet_Telec_TA/ORARI_L_IT_TA.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/Elet_Telec_TA/ORARI_L_IT_TA.pdf
 Elettronica Magistrale, http://www.ingbari.poliba.it/ingbari/Didattica/orari/elettronicaS/ORARI_S_IT.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/elettronicaS/ORARI_S_IT2.pdf
