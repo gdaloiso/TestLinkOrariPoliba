@@ -24,4 +24,3 @@ Meccanica Magistrale, http://www.ingbari.poliba.it/ingbari/Didattica/orari/mecca
 Meccanica Magistrale TA, http://www.ingbari.poliba.it/ingbari/Didattica/orari/mag_mec_TA/ORARI_S_IM_TA.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/mag_mec_TA/ORARI_S_IM_TA2.pdf 
 Sistemi Medicali, http://www.ingbari.poliba.it/ingbari/Didattica/orari/Sit_med/ORARI_L_ISM.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/Sit_med/ORARI_L_ISM2.pdf 
 Telecomunicazioni Magistrale, http://www.ingbari.poliba.it/ingbari/Didattica/orari/telecomunicS/ORARI_S_IZ.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/telecomunicS/ORARI_S_IZ2.pdf
-DICAR, http://archinauti.poliba.it/mod/resource/view.php?id=11914 , http://archinauti.poliba.it/mod/resource/view.php?id=11914
