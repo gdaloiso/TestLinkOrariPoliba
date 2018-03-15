@@ -31,12 +31,12 @@ public class TestLink
 				System.out.println("Link al corso "+ arrayCorsi.get(i) + "_I errato");
 				errors = errors + 1;
             }
-            /*boolean result2 = downloadFile(arrayLink2.get(i));
+            boolean result2 = downloadFile(arrayLink2.get(i));
             if(!result2)
             {
 				System.out.println("Link al corso "+ arrayCorsi.get(i) + "_II errato");
 				errors = errors + 1;
-            }*/
+            }
         }
         System.out.println("Finish with "+ errors + " errors");
         System.exit(errors);
