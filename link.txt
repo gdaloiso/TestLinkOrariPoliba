@@ -1,6 +1,5 @@
 INSEGNAMENTI COMUNI (1° ANNO),http://www.ingbari.poliba.it/ingbari/Didattica/orari/Corsi_Comuni/C_COMUNI.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/Corsi_Comuni/C_COMUNI2.pdf
 Civile e Ambientale,http://www.ingbari.poliba.it/ingbari/Didattica/orari/civ_amb/ORARI_L_IC.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/civ_amb/ORARI_L_IC2.pdf
-Civile e Ambientale TA, http://www.ingbari.poliba.it/ingbari/Didattica/orari/civ_amb_TA/ORARI_L_IC_TA.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/civ_amb_TA/ORARI_L_IC_TA2.pdf
 Ambiente e Territorio Magistrale, http://www.ingbari.poliba.it/ingbari/Didattica/orari/ambientaleS/ORARI_S_IB.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/ambientaleS/ORARI_S_IB2.pdf 
 Ambiente e Territorio Magistrale TA, http://www.ingbari.poliba.it/ingbari/Didattica/orari/mag_ambient_TA/ORARI_S_IB_TA.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/mag_ambient_TA/ORARI_S_IB_TA2.pdf
 Ingegneria dei Sistemi Aerospaziali, http://www.ingbari.poliba.it/ingbari/Didattica/orari/Aereospazio_TA/ORARI_L_AS_TA.pdf ,http://www.ingbari.poliba.it/ingbari/Didattica/orari/Aereospazio_TA/ORARI_L_AS_TA2.pdf
@@ -13,13 +12,11 @@ Ingegneria dei Sistemi Edilizi DM 270, http://www.ingbari.poliba.it/ingbari/Dida
 Elettrica, http://www.ingbari.poliba.it/ingbari/Didattica/orari/elettrica/ORARI_L_IL.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/elettrica/ORARI_L_IL2.pdf 
 Elettrica Magistrale, http://www.ingbari.poliba.it/ingbari/Didattica/orari/elettricaS/ORARI_S_IL.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/elettricaS/ORARI_S_IL2.pdf 
 Elettronica e Telecomunicazioni, http://www.ingbari.poliba.it/ingbari/Didattica/orari/Elet_Telec/ORARI_L_IT.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/Elet_Telec/ORARI_L_IT2.pdf
-Elettronica e Telecomunicazioni TA, http://www.ingbari.poliba.it/ingbari/Didattica/orari/Elet_Telec_TA/ORARI_L_IT_TA.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/Elet_Telec_TA/ORARI_L_IT_TA.pdf
 Elettronica Magistrale, http://www.ingbari.poliba.it/ingbari/Didattica/orari/elettronicaS/ORARI_S_IT.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/elettronicaS/ORARI_S_IT2.pdf
 Gestionale, http://www.ingbari.poliba.it/ingbari/Didattica/orari/gestionale/ORARI_L_IG.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/gestionale/ORARI_L_IG2.pdf
 Gestionale Magistrale, http://www.ingbari.poliba.it/ingbari/Didattica/orari/gestionaleS/ORARI_S_IG.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/gestionaleS/ORARI_S_IG2.pdf
 Informatica Magistrale, http://www.ingbari.poliba.it/ingbari/Didattica/orari/informaticaS/ORARI_S_IF.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/informaticaS/ORARI_S_IF2.pdf 
 Meccanica, http://www.ingbari.poliba.it/ingbari/Didattica/orari/meccanica/ORARI_L_IM.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/meccanica/ORARI_L_IM2.pdf
-Meccanica TA, http://www.ingbari.poliba.it/ingbari/Didattica/orari/meccanica_TA/ORARI_L_IM_TA.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/meccanica_TA/ORARI_L_IM_TA2.pdf
 Meccanica Magistrale, http://www.ingbari.poliba.it/ingbari/Didattica/orari/meccanicaS/ORARI_S_IM.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/meccanicaS/ORARI_S_IM2.pdf
 Meccanica Magistrale TA, http://www.ingbari.poliba.it/ingbari/Didattica/orari/mag_mec_TA/ORARI_S_IM_TA.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/mag_mec_TA/ORARI_S_IM_TA2.pdf 
 Sistemi Medicali, http://www.ingbari.poliba.it/ingbari/Didattica/orari/Sit_med/ORARI_L_ISM.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/Sit_med/ORARI_L_ISM2.pdf 
