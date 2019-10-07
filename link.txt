@@ -1,23 +1,24 @@
-INSEGNAMENTI COMUNI (1° ANNO),http://www.ingbari.poliba.it/ingbari/Didattica/orari/Corsi_Comuni/C_COMUNI.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/Corsi_Comuni/C_COMUNI2.pdf
-Civile e Ambientale,http://www.ingbari.poliba.it/ingbari/Didattica/orari/civ_amb/ORARI_L_IC.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/civ_amb/ORARI_L_IC2.pdf
-Ambiente e Territorio Magistrale, http://www.ingbari.poliba.it/ingbari/Didattica/orari/ambientaleS/ORARI_S_IB.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/ambientaleS/ORARI_S_IB2.pdf 
-Ambiente e Territorio Magistrale TA, http://www.ingbari.poliba.it/ingbari/Didattica/orari/mag_ambient_TA/ORARI_S_IB_TA.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/mag_ambient_TA/ORARI_S_IB_TA2.pdf
-Ingegneria dei Sistemi Aerospaziali, http://www.ingbari.poliba.it/ingbari/Didattica/orari/Aereospazio_TA/ORARI_L_AS_TA.pdf ,http://www.ingbari.poliba.it/ingbari/Didattica/orari/Aereospazio_TA/ORARI_L_AS_TA2.pdf
-Ingegneria dell Ambiente, http://www.ingbari.poliba.it/ingbari/Didattica/orari/ambiente_TA/ORARI_L_AMB_TA.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/ambiente_TA/ORARI_L_AMB_TA2.pdf
-Civile magistrale, http://www.ingbari.poliba.it/ingbari/Didattica/orari/civileS/ORARI_S_IC.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/civileS/ORARI_S_IC2.pdf
-Informatica e Automazione DM 270, http://www.ingbari.poliba.it/ingbari/Didattica/orari/Inf_autom/ORARI_L_IF.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/Inf_autom/ORARI_L_IF2.pdf
-Automazione Magistrale, http://www.ingbari.poliba.it/ingbari/Didattica/orari/automazioneS/ORARI_S_IA.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/automazioneS/ORARI_S_IA2.pdf
-Edile, http://www.ingbari.poliba.it/ingbari/Didattica/orari/edile/ORARI_L_ID.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/edile/ORARI_L_ID2.pdf
-Ingegneria dei Sistemi Edilizi DM 270, http://www.ingbari.poliba.it/ingbari/Didattica/orari/Sist_ed/ORARI_S_ID.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/Sist_ed/ORARI_S_ID2.pdf
-Elettrica, http://www.ingbari.poliba.it/ingbari/Didattica/orari/elettrica/ORARI_L_IL.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/elettrica/ORARI_L_IL2.pdf 
-Elettrica Magistrale, http://www.ingbari.poliba.it/ingbari/Didattica/orari/elettricaS/ORARI_S_IL.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/elettricaS/ORARI_S_IL2.pdf 
-Elettronica e Telecomunicazioni, http://www.ingbari.poliba.it/ingbari/Didattica/orari/Elet_Telec/ORARI_L_IT.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/Elet_Telec/ORARI_L_IT2.pdf
-Elettronica Magistrale, http://www.ingbari.poliba.it/ingbari/Didattica/orari/elettronicaS/ORARI_S_IT.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/elettronicaS/ORARI_S_IT2.pdf
-Gestionale, http://www.ingbari.poliba.it/ingbari/Didattica/orari/gestionale/ORARI_L_IG.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/gestionale/ORARI_L_IG2.pdf
-Gestionale Magistrale, http://www.ingbari.poliba.it/ingbari/Didattica/orari/gestionaleS/ORARI_S_IG.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/gestionaleS/ORARI_S_IG2.pdf
-Informatica Magistrale, http://www.ingbari.poliba.it/ingbari/Didattica/orari/informaticaS/ORARI_S_IF.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/informaticaS/ORARI_S_IF2.pdf 
-Meccanica, http://www.ingbari.poliba.it/ingbari/Didattica/orari/meccanica/ORARI_L_IM.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/meccanica/ORARI_L_IM2.pdf
-Meccanica Magistrale, http://www.ingbari.poliba.it/ingbari/Didattica/orari/meccanicaS/ORARI_S_IM.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/meccanicaS/ORARI_S_IM2.pdf
-Meccanica Magistrale TA, http://www.ingbari.poliba.it/ingbari/Didattica/orari/mag_mec_TA/ORARI_S_IM_TA.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/mag_mec_TA/ORARI_S_IM_TA2.pdf 
-Sistemi Medicali, http://www.ingbari.poliba.it/ingbari/Didattica/orari/Sit_med/ORARI_L_ISM.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/Sit_med/ORARI_L_ISM2.pdf 
-Telecomunicazioni Magistrale, http://www.ingbari.poliba.it/ingbari/Didattica/orari/telecomunicS/ORARI_S_IZ.pdf , http://www.ingbari.poliba.it/ingbari/Didattica/orari/telecomunicS/ORARI_S_IZ2.pdf
+INSEGNAMENTI COMUNI (1° ANNO),https://www.poliba.it/orariolezioni/orari/Corsi_Comuni/C_COMUNI.pdf , https://www.poliba.it/orariolezioni/orari/Corsi_Comuni/C_COMUNI2.pdf
+Civile e Ambientale,http://www.poliba.it/orariolezioni/orari/civ_amb/ORARI_L_IC.pdf , http://www.poliba.it/orariolezioni/orari/civ_amb/ORARI_L_IC2.pdf
+Civile e Ambientale TA,https://www.poliba.it/orariolezioni/orari/civ_amb_TA/ORARI_L_IC_TA.pdf, https://www.poliba.it/orariolezioni/orari/civ_amb_TA/ORARI_L_IC_TA2.pdf
+Ambiente e Territorio Magistrale, https://www.poliba.it/orariolezioni/orari/ambientaleS/ORARI_S_IB.pdf , https://www.poliba.it/orariolezioni/orari/ambientaleS/ORARI_S_IB2.pdf
+Ambiente e Territorio Magistrale TA, https://www.poliba.it/orariolezioni/orari/mag_ambient_TA/ORARI_S_IB_TA.pdf , https://www.poliba.it/orariolezioni/orari/mag_ambient_TA/ORARI_S_IB_TA2.pdf
+Ingegneria dei Sistemi Aerospaziali, https://www.poliba.it/orariolezioni/orari/Aereospazio_TA/ORARI_L_AS_TA.pdf ,https://www.poliba.it/orariolezioni/orari/Aereospazio_TA/ORARI_L_AS_TA.pdf
+Ingegneria dell Ambiente, https://www.poliba.it/orariolezioni/orari/ambiente_TA/ORARI_L_AMB_TA.pdf , https://www.poliba.it/orariolezioni/orari/ambiente_TA/ORARI_L_AMB_TA2.pdf
+Civile magistrale, https://www.poliba.it/orariolezioni/orari/civileS/ORARI_S_IC.pdf , https://www.poliba.it/orariolezioni/orari/civileS/ORARI_S_IC2.pdf
+Informatica e Automazione DM 270, https://www.poliba.it/orariolezioni/orari/Inf_autom/ORARI_L_IF.pdf , https://www.poliba.it/orariolezioni/orari/Inf_autom/ORARI_L_IF2.pdf
+Automazione Magistrale, https://www.poliba.it/orariolezioni/orari/automazioneS/ORARI_S_IA.pdf , https://www.poliba.it/orariolezioni/orari/automazioneS/ORARI_S_IA2.pdf
+Edile, https://www.poliba.it/orariolezioni/orari/edile/ORARI_L_ID.pdf , https://www.poliba.it/orariolezioni/orari/edile/ORARI_L_ID2.pdf
+Ingegneria dei Sistemi Edilizi DM 270, https://www.poliba.it/orariolezioni/orari/Sist_ed/ORARI_S_ID.pdf , https://www.poliba.it/orariolezioni/orari/Sist_ed/ORARI_S_ID2.pdf
+Elettrica, https://www.poliba.it/orariolezioni/orari/elettrica/ORARI_L_IL.pdf , https://www.poliba.it/orariolezioni/orari/elettrica/ORARI_L_IL2.pdf 
+Elettrica Magistrale, https://www.poliba.it/orariolezioni/orari/elettricaS/ORARI_S_IL.pdf , https://www.poliba.it/orariolezioni/orari/elettricaS/ORARI_S_IL2.pdf 
+Elettronica e Telecomunicazioni, https://www.poliba.it/orariolezioni/orari/Elet_Telec/ORARI_L_IT.pdf , https://www.poliba.it/orariolezioni/orari/Elet_Telec/ORARI_L_IT2.pdf
+Elettronica Magistrale, https://www.poliba.it/orariolezioni/orari/elettronicaS/ORARI_S_IT.pdf , https://www.poliba.it/orariolezioni/orari/elettronicaS/ORARI_S_IT2.pdf
+Gestionale, https://www.poliba.it/orariolezioni/orari/gestionale/ORARI_L_IG.pdf , https://www.poliba.it/orariolezioni/orari/gestionale/ORARI_L_IG2.pdf
+Gestionale Magistrale, https://www.poliba.it/orariolezioni/orari/gestionaleS/ORARI_S_IG.pdf , https://www.poliba.it/orariolezioni/orari/gestionaleS/ORARI_S_IG2.pdf
+Informatica Magistrale, https://www.poliba.it/orariolezioni/orari/informaticaS/ORARI_S_IF.pdf , https://www.poliba.it/orariolezioni/orari/informaticaS/ORARI_S_IF2.pdf 
+Meccanica, https://www.poliba.it/orariolezioni/orari/meccanica/ORARI_L_IM.pdf , https://www.poliba.it/orariolezioni/orari/meccanica/ORARI_L_IM2.pdf
+Meccanica Magistrale, https://www.poliba.it/orariolezioni/orari/meccanicaS/ORARI_S_IM.pdf , https://www.poliba.it/orariolezioni/orari/meccanicaS/ORARI_S_IM2.pdf
+Meccanica Magistrale TA, https://www.poliba.it/orariolezioni/orari/mag_mec_TA/ORARI_S_IM_TA.pdf , https://www.poliba.it/orariolezioni/orari/mag_mec_TA/ORARI_S_IM_TA2.pdf 
+Sistemi Medicali, https://www.poliba.it/orariolezioni/orari/Sit_med/ORARI_L_ISM.pdf , https://www.poliba.it/orariolezioni/orari/Sit_med/ORARI_L_ISM2.pdf 
+Telecomunicazioni Magistrale, https://www.poliba.it/orariolezioni/orari/telecomunicS/ORARI_S_IZ.pdf , https://www.poliba.it/orariolezioni/orari/telecomunicS/ORARI_S_IZ2.pdf
